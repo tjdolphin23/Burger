@@ -1,4 +1,4 @@
-/* body {
+body {
 	background-color: #ffcc00;
 }
 
@@ -11,8 +11,12 @@ h1 {
 	text-align: center;
 }
 
-
+pre {
+	margin-top: 30px;
+	font-size: 18px;
+	text-align: left;
+}
 
 #submit {
 	margin-top: 50px;
-} */
+}
